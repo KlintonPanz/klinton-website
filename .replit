@@ -1,0 +1,7 @@
+[nix]
+channel = "stable-24_05"
+entrypoint = "main.py"
+[run]
+command = "python main.py"
+[nix]
+channel = "stable-23_05"

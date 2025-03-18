@@ -1,3 +1,1 @@
-
-name = "Klinton Panz"
-print(name)
+from flak import Flask
